@@ -2,3 +2,4 @@
 getFirstSelector(
   document.querySelector('div')
   )
+
