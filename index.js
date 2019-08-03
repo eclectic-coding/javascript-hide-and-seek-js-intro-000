@@ -20,7 +20,7 @@ function increaseRankby(n) {
 }
 
 function deepestChild(){
-  let node = documentElementByID('grand-node');
+  let node = document.getElementByID('grand-node');
   let nextNode = node.children[0];
   
   while (nextNode) {
