@@ -1,1 +1,4 @@
 
+getFirstSelector(
+  document.querySelector('div')
+  )
