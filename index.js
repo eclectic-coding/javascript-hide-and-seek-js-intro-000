@@ -1,8 +1,4 @@
 
-getFirstSelector(
-  document.querySelector('div')
-  )
-
-nestedTarget(
-  document.querySelectorAll('div.nested#target'))
-  
+getFirstSelector(s){
+  return document.querySelector(s)
+}
