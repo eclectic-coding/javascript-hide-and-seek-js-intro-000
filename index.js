@@ -5,3 +5,4 @@ getFirstSelector(
 
 nestedTarget(
   document.querySelectorAll('div.nested#target'))
+  
